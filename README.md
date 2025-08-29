@@ -1,10 +1,9 @@
  <h1 align="center">Hi 👋, I'm Balaka</h1>
 
-- 🔭 I’m currently working on Flutter
+- 🔭 I’m currently working on ReactJs
 - 🌱 I’m currently learning Backend
-- 💬 Ask me anything about Flutter 
-- 📫 How to reach me: axiftaj@gmail.com
-- 😄 My website: https://thetechbrothers.net
+- 💬 Ask me anything about ReactJs
+- 📫 How to reach me: balakamandal77@gmail.com
 - ⚡ Fun fact: I'm comming to teen
   
 ### Connect with me:
@@ -35,5 +34,5 @@
 
 
 <br>
-⭐️ From [axiftaj](https://github.com/axiftaj)
+⭐️ From [balaka555](https://github.com/balaka555)
 
